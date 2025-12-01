@@ -11,6 +11,10 @@ body {
   background-color: #6366f1;
 }
 
+.navb a:hover{
+  color: #bbb !important;
+}
+
 .f-box{
   background-color: #6366f1;
 }
@@ -57,4 +61,8 @@ footer {
 
 .social-icons a:hover {
   transform: scale(1.1);
+}
+
+.qls a:hover{
+  color: #6366f1 !important;
 }
