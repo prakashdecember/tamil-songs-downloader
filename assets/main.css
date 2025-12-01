@@ -4,24 +4,29 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: 300;
   color: #000;
-  background: #fffafa;
+  background: #CBEEF3;
 }
 
 .nav-bg{
-  background-color: #6366f1;
+  background-color: #a5e9f1;
 }
 
 .navb a:hover{
-  color: #bbb !important;
+  color: #0a1dee !important;
+}
+
+.navbar img:hover{
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
 }
 
 .f-box{
-  background-color: #6366f1;
+  background-color: #a5e9f1;
 }
 
 .f-box:hover{
-  background-color: #4f46e5;
-  transform: translateY(-5px);
+  background-color: #a5e9f1;
+  transform: translateZ(3px);
   transition: all 0.3s ease;
 }
 
@@ -30,7 +35,7 @@ body {
 }
 
 .text-info {
-  color: #6366f1 !important;
+  color: #0105fd !important;
 }
 
 .btn-success {
